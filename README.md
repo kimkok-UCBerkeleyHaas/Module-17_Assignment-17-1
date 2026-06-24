@@ -1,3 +1,5 @@
+GitHub Link : https://github.com/kimkok-UCBerkeleyHaas/Module-17_Assignment-17-1/
+
 # Module-17_Assignment-17-1
 Learning Outcome Addressed 
   - Apply various classification methods to a business problem. 
